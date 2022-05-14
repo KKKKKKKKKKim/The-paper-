@@ -14,7 +14,8 @@
 - `ACL2022` EmoCaps: Emotion Capsule based Model for Conversational Emotion Recognition, 2022. [[paper]](https://arxiv.org/pdf/2203.13504.pdf)
 - `ACL2022` Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion-Cause Pair Extraction, 2022. [[paper]](https://arxiv.org/pdf/2205.02132.pdf) 
     New tasks: Emotion-Cause Pair Extraction ACL2019
-- `ACL2022` (Muti-model database) M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database, 2022. [[paper]](https://arxiv.org/pdf/2203.13504.pdf) [[code]] (https://github.com/AIM3-RUC/RUCM3ED)
+- `ACL2022` (Muti-model database) M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database, 2022. [[code]](https://github.com/AIM3-RUC/RUCM3ED)
+- `ACL2022` MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/pdf/2203.13560v1.pdf) [[code]](https://github.com/morecry/MISC)
 
 
 
@@ -26,7 +27,7 @@
 
 - `NAACL22` Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances, 2022. [[paper]](https://arxiv.org/abs/2205.03112v1)
 - `NAACL22` EmpHi: Generating Empathetic Responses with Human-like Intents, 2022. [[paper]](https://arxiv.org/abs/2204.12191) [[code]](https://github.com/mattc95/EmpHi)
-- `ACL22` MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/pdf/2203.13560v1.pdf) [[code]](https://github.com/morecry/MISC)
+
 - Emotion-based Modeling of Mental Disorders on Social Media, 2022. [[paper]](https://arxiv.org/abs/2201.09451)
 - Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
 - `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
