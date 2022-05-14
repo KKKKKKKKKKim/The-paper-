@@ -12,8 +12,9 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
 - `ACL2022` EmoCaps: Emotion Capsule based Model for Conversational Emotion Recognition, 2022. [[paper]](https://arxiv.org/pdf/2203.13504.pdf)
-- `ACL2022` Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion-Cause Pair Extraction, 2022. [[paper]](https://arxiv.org/pdf/2205.02132.pdf)
-- `ACL2022` EmoCaps: Emotion Capsule based Model for Conversational Emotion Recognition, 2022. [[paper]](https://arxiv.org/pdf/2203.13504.pdf)
+- `ACL2022` Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion-Cause Pair Extraction, 2022. [[paper]](https://arxiv.org/pdf/2205.02132.pdf) 
+    New tasks: Emotion-Cause Pair Extraction ACL2019
+- `ACL2022` (Muti-model database) M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database, 2022. [[paper]](https://arxiv.org/pdf/2203.13504.pdf) [[code]] (https://github.com/AIM3-RUC/RUCM3ED)
 
 
 
